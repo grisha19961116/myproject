@@ -1,0 +1,9 @@
+p {
+  text-transform: uppercase;
+  font-style: italic;
+  border: green;
+  border-radius: 10px;
+}
+ul {
+  color: green;
+}
